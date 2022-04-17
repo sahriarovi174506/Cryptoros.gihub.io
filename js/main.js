@@ -195,7 +195,6 @@
             autoplay: true,
             vertical: false,
             verticalSwiping: false,
-            speed: 1000000000000,
             slidesToShow: 5,
             slidesToScroll: 3,
             responsive: [
